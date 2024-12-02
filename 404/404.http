@@ -1,0 +1,6 @@
+@_404_HostAddress = http://localhost:5133
+
+GET {{_404_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
